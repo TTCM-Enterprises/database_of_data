@@ -1,2 +1,2 @@
-# database_of_swears
-database of swears (dont ask why, but inspired by JiveOff)
+# database_of_data
+database of data (dont ask why, but inspired by JiveOff's database of swears)
